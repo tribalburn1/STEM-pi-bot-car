@@ -1,7 +1,7 @@
 #Code for S.T.E.M Center Pi-bot car
 This is the repository for all the files of the Pi-bot car, [StemCenter](http://stemcenterusa.com/pi-bot/downloads-/). The full downloads is available at [STEMCenter](http://stemcenterusa.com/pi-bot/downloads-/).
-- [Demo Website](http://chetkins.com)
-- [My Personal Website](http://raybo.org)
+- [YouTube](https://www.youtube.com/channel/UC1LGHm3S_TprJv83GwJVTRw)
+- [My Personal Website](http://www.djburn.com)
 
 
 ## Course Description
