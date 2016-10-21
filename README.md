@@ -18,11 +18,9 @@ Wanted to have all the sample date of pi-bot car in one spot. With the ability t
 
 ## Instructions
 This repository started as a dump from the StemCenter.  The branches are for screwing around and making edits to code.
-
 1. You don't talk about FightClub
 2. You don't talk about FightClub
 3. Create a new branch if you want to mess around, don't screw up my master.  Thanks!
-
 
 ## More Stuff
 Happy coding!
