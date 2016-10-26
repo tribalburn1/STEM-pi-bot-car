@@ -3,7 +3,6 @@ This is the repository for all the files of the Pi-bot car, [StemCenter](http://
 - [YouTube](https://www.youtube.com/channel/UC1LGHm3S_TprJv83GwJVTRw)
 - [My Personal Website](http://www.djburn.com)
 
-
 ## Course Description
 Wanted to have all the sample date of pi-bot car in one spot. With the ability to have more files shared among the community.
 
@@ -22,7 +21,6 @@ This repository started as a dump from the StemCenter.  The branches are for scr
 1. You don't talk about FightClub
 2. You don't talk about FightClub
 3. Create a new branch if you want to mess around, don't screw up my master.  Thanks!
-
 
 ## More Stuff
 Happy coding!

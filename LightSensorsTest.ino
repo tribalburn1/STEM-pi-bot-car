@@ -3,6 +3,7 @@
 STEM Center USA
 Pi-Bot
 */
+
 const int Line1 = 7;     // Left Line Sensor
 const int Line2 = 8;     // Center Line Sensor
 const int Line3 = 10;    // Right Sensor 
@@ -32,4 +33,3 @@ void loop()
     Serial.println(L3); 
     delay(10);
   }
-  

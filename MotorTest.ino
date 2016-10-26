@@ -59,18 +59,21 @@ void loop()
     analogWrite(In2, 0); 
     analogWrite(In1, speed2); 
     delay(2000);
+    
     //STOP
     analogWrite(In4, 0); 
     analogWrite(In3, 0); 
     analogWrite(In2, 0); 
     analogWrite(In1, 0);
     delay(1000); 
+    
     //Reverse
     analogWrite(In4, speed1); 
     analogWrite(In3, 0); 
     analogWrite(In2, speed2); 
     analogWrite(In1, 0);
     delay(1000);
+   
    //STOP 
     analogWrite(In4, 0); 
     analogWrite(In3, 0); 
