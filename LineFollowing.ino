@@ -1,4 +1,3 @@
-
 const int Line1 = 7;     // Left Line Sensor
 const int Line2 = 8;     // Center Line Sensor
 const int Line3 = 10;    // Right Sensor 
