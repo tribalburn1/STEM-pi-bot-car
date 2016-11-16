@@ -2,7 +2,6 @@
 STEM Center USA, Inc.
 Pi-Bot: Motor Test Program using Function Calls
 */
-
 const int In1 = 3;      
 const int In2 = 5;      
 const int In3 = 6;      
