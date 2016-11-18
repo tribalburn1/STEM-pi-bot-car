@@ -1,7 +1,4 @@
-
 /* Light Sensors Test
-STEM Center USA
-Pi-Bot
 */
 
 const int Line1 = 7;     // Left Line Sensor
