@@ -32,7 +32,6 @@ void loop()
   Serial.print("cm");
   Serial.println();
   delay(10);
-   
 }
 
 void ping ()
