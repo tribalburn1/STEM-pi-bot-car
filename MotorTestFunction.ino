@@ -6,7 +6,6 @@ const int In1 = 3;
 const int In2 = 5;      
 const int In3 = 6;      
 const int In4 = 11;  
-
 void setup()
 {
 // initialize the pins an output:
