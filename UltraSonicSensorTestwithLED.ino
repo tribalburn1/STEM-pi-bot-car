@@ -1,5 +1,4 @@
 /* Using HC-SR04 Sensor
-STEM Center USA - Pi-Bot 
 VCC pin connected to Arduino +5V
 GND pin connected  to Arduino Ground
 TRIG pin connected digital pin 2
@@ -11,7 +10,6 @@ the MaxDistance
 
 Don't forgte to use a resistor 
 while connecting the LED 
-
 */
  
 //Define integer constants
