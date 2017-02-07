@@ -1,7 +1,6 @@
 const int Line1 = 7;     // Left Line Sensor
 const int Line2 = 8;     // Center Line Sensor
 const int Line3 = 10;    // Right Sensor 
-
 const int In1 = 3;      // In1
 const int In2 = 5;      // In2
 const int In3 = 6;     // In3
