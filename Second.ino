@@ -7,7 +7,6 @@ Serial.begin(9600);
 }
 void loop()
 {
-
 const int var2 = 1;
 int var4;
 int var5=1;
