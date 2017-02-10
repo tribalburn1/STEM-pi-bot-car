@@ -3,7 +3,6 @@ VCC pin connected to Arduino +5V
 GND pin connected  to Arduino Ground
 TRIG pin connected digital pin 2
 ECHO pin connected digital pin 4
-
 LED will light up if the distance between
 ultrasonic sensor and an object falls below
 the MaxDistance 
