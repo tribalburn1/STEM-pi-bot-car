@@ -11,7 +11,6 @@ the MaxDistance
 
 Don't forgte to use a resistor 
 while connecting the LED 
-
 */
  
 //Define integer constants
