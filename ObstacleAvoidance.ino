@@ -5,7 +5,6 @@ VCC pin connected to Arduino +5V
 GND pin connected  to Arduino Ground
 TRIG pin connected digital pin 2
 ECHO pin connected digital pin 4
-
 Motors Connected to Pins 3,5, 6 and 11
 */
  
