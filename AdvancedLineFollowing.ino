@@ -8,7 +8,6 @@ const int In2 = 5;      // In2
 const int In3 = 6;      // In3
 const int In4 = 11;     // In4
 const int batPin = A0;
-
 #define num 6
 
 void setup() 
