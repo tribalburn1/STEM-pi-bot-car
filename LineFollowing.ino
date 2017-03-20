@@ -24,7 +24,7 @@ void loop()
   int slow, fast;
   int speed1;
   int speed2;
-  fast=100;
+  fast=90;
   slow=0;
   int L1;
   int L2;
