@@ -5,7 +5,7 @@ Serial.begin(9600);
 void loop()
 {
 int var1=0;
-for(int count=1; count<=10; count++)
+for(int count=1; count<=9; count++)
 {
 if(count < 5)
 {
