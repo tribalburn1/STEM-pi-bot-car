@@ -1,7 +1,6 @@
 /*
 STEM Center USA, Inc.
 Pi-Bot: Motor Test Program
-
 Download this program and run it. If everything is hooked up as 
 shown in the wiring diagram, the wheels will turn forward 
 for 2 seconds, stop for 1 second, reverse for 1 second, and 
