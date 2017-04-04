@@ -1,5 +1,4 @@
 // Program Led2
-
 void setup()
 
   #define Left_Light 13
