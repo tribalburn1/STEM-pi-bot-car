@@ -4,7 +4,6 @@ Serial.begin(9600);
 }
 void loop()
 {
-  
 int var1;
 var1 = 3;
 Serial.print("var1 = ");
