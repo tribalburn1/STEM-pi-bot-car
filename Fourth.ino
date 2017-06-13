@@ -4,7 +4,8 @@ Serial.begin(9600);
 }
 void loop()
 {
-int var1;
+
+  int var1;
 var1 = 3;
 Serial.print("var1 = ");
 Serial.print(var1, DEC);
@@ -22,7 +23,9 @@ Serial.println(" is less than or equal to 4");
 }
 else
 {
-Serial.println(" unknown");
+
+  Serial.println(" unknown");
+
 }
 delay(500);
 }
