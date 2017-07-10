@@ -70,4 +70,3 @@ void ping ()
   cm = duration / 29 /2;
   return;
 }
-
