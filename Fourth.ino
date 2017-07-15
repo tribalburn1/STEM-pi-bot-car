@@ -24,7 +24,6 @@ else
 {
 
   Serial.println(" unknown");
-
 }
 delay(500);
 }
