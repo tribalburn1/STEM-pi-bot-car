@@ -6,7 +6,6 @@ pinMode(Left_Light,OUTPUT);
 }
 
 void loop()
-
 {
 digitalWrite(Left_Light,HIGH);
 delay(120);
